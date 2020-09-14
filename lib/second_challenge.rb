@@ -1,10 +1,10 @@
-def first_challenge
+def second_challenge
   epic_tragedy = {
       montague: {
         patriarch: {},
         matriarch: {},
         hero: {},
-        hero_friend: []
+        hero_friends: []
       },
       capulet: {
         patriarch: {},
